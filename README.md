@@ -12,6 +12,15 @@ No need to do anything else, as the IDE will take care to download and apply the
 
 The repository for the completed code is [here](https://github.com/rockthejvm/udemy-akka-persistence). You can follow the instructions there - although the download/import steps are identical to this one. Additionally, the completed repo is enhanced with commit tags that allow you to go back to an earlier state of the repository, prior to each lecture.
 
+### Contents in this repo
+
+* a filled-in `build.sbt` with the appropriate library dependencies
+* a complete Scala IntelliJ project with a `Playground` app that you can compile to see that the libraries were downloaded
+* a `docker-compose.yml` with already configured Docker containers for Postgres and Cassandra
+* a `/sql` folder with a SQL script that will automatically create the correct Postgres tables for Akka (more in the PostgreSQL lecture)
+* a helper script `psql.sh` to easily connect to Postgres once started
+* a helper scripte `cqlsh.sh` to easily connect to Cassandra once started
+
 ### For questions or suggestions
 
 If you have changes to suggest to this repo, either
