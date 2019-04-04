@@ -1,5 +1,7 @@
 # The official starter repository for the Rock the JVM Akka Persistence with Scala course
 
+Powered by [Rock the JVM!](rockthejvm.com)
+
 This repository contains the starter code for the [Rock the JVM's Akka Persistence with Scala](https://www.udemy.com/akka-persistence) course on Udemy.
 
 ### How to install
